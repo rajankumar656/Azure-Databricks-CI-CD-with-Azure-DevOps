@@ -1,0 +1,1 @@
+Developed a complete CI/CD pipeline for Azure Databricks using Azure DevOps. The project focused on automating the deployment and testing of Databricks notebooks and jobs, ensuring a seamless transition from development to production environments, enhancing efficiency and reliability in the data engineering workflow.
